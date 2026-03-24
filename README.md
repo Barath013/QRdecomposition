@@ -24,6 +24,10 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Program:
 ### Gram-Schmidt Method
 ```
+BARATH V
+212225240023
+```
+```
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
@@ -54,5 +58,7 @@ QR_Decomposition(a)
 
 ## Output
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7012d04c-5abc-47ac-bd3d-3275316dadc0" />
+
 ## Result
+
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
